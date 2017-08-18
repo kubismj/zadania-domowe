@@ -1,0 +1,12 @@
+body {
+	background-color: white;
+	font-family: Verdana, sans-serif;
+	text-transform: uppercase;
+}
+#header {
+	position: fixed;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.2);
+	top: 0;
+	right: 0;
+} 
